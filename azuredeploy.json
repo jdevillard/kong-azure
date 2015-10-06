@@ -295,7 +295,7 @@
                   "autoUpgradeMinorVersion": true,
                   "settings": {
                       "fileUris": [
-                          "https://jdevillard.blob.core.windows.net/github/kongscript.sh"
+                          "https://raw.githubusercontent.com/jdevillard/kong-azure/master/kongscript.sh"
                       ],
                       "commandToExecute": "bash kongscript.sh"
                   }
