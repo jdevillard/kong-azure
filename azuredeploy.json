@@ -15,7 +15,7 @@
       }
     },
     "sshKeyData": {
-      "type": "string"
+      "type": "string",
       "metadata": {
         "description": "ssh key used to connect through the shell."
       }
