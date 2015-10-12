@@ -81,7 +81,7 @@
     "publicIPAddressType": "Dynamic",
     "vmStorageAccountContainerName": "vhds",
     "vmName": "MyAzureKongVM",
-    "vmSize": "Standard_A1",
+    "vmSize": "Standard_A2",
     "virtualNetworkName": "MyVNET",
     "sshKeyPath": "[concat('/home/',parameters('adminUsername'),'/.ssh/authorized_keys')]",
     "vnetID": "[resourceId('Microsoft.Network/virtualNetworks',variables('virtualNetworkName'))]",
